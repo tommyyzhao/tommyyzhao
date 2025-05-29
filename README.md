@@ -81,7 +81,7 @@ knock, and it shall be opened unto you
 ---
 
 <details>
-<summary>✧ DUSK ✧</summary>
+<summary>✧✧</summary>
 
 <div align="center">
   <br>
