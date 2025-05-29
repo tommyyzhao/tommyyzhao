@@ -26,7 +26,7 @@
 >
 > The teacher offered them another approach, saying, “Grab any balloon and help find its owner.” Within minutes, everyone had what they were looking for.
 
-Let us create islands in this Sea of Entropy.
+Create islands in the Sea of Entropy.
 
 <details>
 <summary>✧ VIA OCTUPLEX NOBILIS ✧</summary>
