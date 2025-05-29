@@ -113,11 +113,11 @@ graph LR
 
 ---
 
-## <ins>TRANSCEND</ins>
+## <ins>ASCEND</ins>
 
 > Always we begin again.
 
-Let us help others find their way.
+Help others find their way.
 
 <div align="center">
   <a href="#" style="display: none">
@@ -135,5 +135,5 @@ Let us help others find their way.
 <br>
 
 <div align="center">
-  <sub>Somewhere, your balloon awaits.</sub>
+  <sub>balloons ascend</sub>
 </div>
